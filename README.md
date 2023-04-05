@@ -25,7 +25,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 8 del curso de visi�
   - Anotación de nuestros frames en tiempo real.
  
  
-  - Para entender mejor el funcionamiento te dejamos la explicación en este [video.](https://youtu.be/J-QaeKQHZ7c)
+  - Para entender mejor el funcionamiento te dejamos la explicación en este [video.](https://youtu.be/JHaVF27J_0I)
 
 
 
