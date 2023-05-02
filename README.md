@@ -6,7 +6,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 8 del curso de visi�
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre que es la deteccion de rostros y cual puede llegar a ser su uso [video.](https://youtu.be/JHaVF27J_0I)
 
 
-![Miniatura (1)](https://user-images.githubusercontent.com/85022752/230198281-dce67a57-44cc-4647-aa2f-8ec1aa4a214b.jpg)
+![Miniatura YouTube curso SEO 3D morado (8)](https://user-images.githubusercontent.com/85022752/235785390-63ca7957-b514-4e89-a6ef-8216f3ac4bbd.jpg)
 
 
 ### Instalación del entorno:
